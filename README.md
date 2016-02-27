@@ -41,7 +41,4 @@ Spent time toning the y acceleration for best feel.
 
 
 
-
-
-
 This was a project for a computer graphics and image processing course. This took a few days and was a blast to make.
